@@ -39,7 +39,7 @@ This takes several hours to train for 100000 iterations with a batch size of 128
 
 ## 4 Inference
 
-Compute polygon predictions on the test set using the trained model and saves the results (used later on to measure accuracy performance)
+Compute polygon predictions on the test set using the trained model and saves the results (used later on to measure accuracy performance).
 
 # Scripts used by the previou sones
 

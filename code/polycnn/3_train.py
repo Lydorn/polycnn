@@ -2,10 +2,9 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-import argparse
 import sys
+import matplotlib.pyplot as plt
 
-import numpy as np
 import tensorflow as tf
 import os
 
@@ -22,7 +21,6 @@ FLAGS = None
 
 # --- Params --- #
 
-import matplotlib.pyplot as plt
 ROOT_DIR = "../../"
 
 # Data
