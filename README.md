@@ -5,8 +5,7 @@ This is the official code for the paper:
 **End-to-End Learning of Polygons for Remote Sensing Image Classification**\
 [Nicolas Girard](https://www-sop.inria.fr/members/Nicolas.Girard/),
 [Yuliya Tarabalka](https://www-sop.inria.fr/members/Yuliya.Tarabalka/)\
-IGARSS 2018
-
+IGARSS 2018\
 **[[Paper](https://www-sop.inria.fr/members/Nicolas.Girard/pdf/Girard_2018_IGARSS_paper.pdf)] [[Slides](https://www-sop.inria.fr/members/Nicolas.Girard/pdf/Girard_2018_IGARSS_slides.pdf)]**
 
 # Dependencies
